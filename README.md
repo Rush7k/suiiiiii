@@ -1,4 +1,4 @@
 # suiiiiii
-This my first program
+This is my first program
 
 Coder - Raushan kumar
